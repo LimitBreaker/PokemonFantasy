@@ -11,7 +11,6 @@
     <meta charset="utf-8" />
     <title>Admin</title>
     <link rel="stylesheet" href="css/admin.css" />
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
     <script src="js/admin.js"></script>
     <script src="../js/autoSize.js"></script>
 </head>

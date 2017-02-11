@@ -139,7 +139,7 @@
     </column>
     <column id="39" parent="10" name="p_world_rank">
       <Position>8</Position>
-      <DataType>int(11)|0</DataType>
+      <DataType>double|0</DataType>
     </column>
     <index id="40" parent="10" name="player_p_username_uindex">
       <ColNames>p_username</ColNames>
