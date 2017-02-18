@@ -45,6 +45,6 @@ public class Move {
     public int getMoveType() { return this.moveType; }
     public int getMovePower() { return this.movePower; }
     public int getMovePP() { return this.movePP; }
-
-    public Type typeName() { return null; }
+    @Enumerated(EnumType.ORDINAL)
+    public Type getType() { return null; }
 }

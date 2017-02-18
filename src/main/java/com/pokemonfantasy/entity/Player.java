@@ -67,4 +67,12 @@ public class Player {
     public void calculatePlayerWorldRank() {
 
     }
+
+    public Pokemon choosePokemon(Pokemon pokemon) {
+        return pokemon;
+    }
+
+    public Move commandPokemon(Move move) {
+        return move;
+    }
 }
